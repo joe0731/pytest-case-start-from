@@ -4,7 +4,7 @@ Setup configuration for pytest-start-from plugin
 from setuptools import setup
 
 setup(
-    name='pytest-start-from',
+    name='pytest-case-start-from',
     version='1.0.0',
     description='A pytest plugin to start test execution from a specific test case',
     long_description=open('README.md').read(),
